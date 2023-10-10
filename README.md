@@ -5,7 +5,7 @@ This is a simple Flask app that interacts with a MySQL database. The app allows 
 
 ## Prerequisites
 
-Before you begin, make sure you have the following installed:
+Before you begin, make sure you have the following installed:-
 
 - Docker
 - Git (optional, for cloning the repository)
