@@ -11,6 +11,7 @@ app.config['MYSQL_PASSWORD'] = os.environ.get('MYSQL_PASSWORD', 'default_passwor
 app.config['MYSQL_DB'] = os.environ.get('MYSQL_DB', 'default_db')
 
 # Initialize MySQL
+
 mysql = MySQL(app)
 
 @app.route('/')
